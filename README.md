@@ -1,8 +1,8 @@
 ## Introduction
 This is a GUI application we can search wikipedia throgh this application
-##Language
+## Language
 python
-##Module
+## Module
 *Wekipedia
 *tkinter
 
